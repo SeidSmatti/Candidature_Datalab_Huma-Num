@@ -1,0 +1,17 @@
+
+Titre du Jeu de Données : Jeu de données archéologiques du site de la Villa Floriana (Bourgogne) - Campagne 2024
+Auteur(s) : Bernard, Sophie (Dr.)
+Date de publication : 2025-05-21
+
+Ce jeu de données est mis à disposition sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Vous êtes autorisé à :
+- Partager — copier et redistribuer le matériel par tous moyens et sous tous formats.
+- Adapter — remixer, transformer et créer à partir du matériel pour toute utilisation, y compris commerciale.
+
+Sous les conditions suivantes :
+- Attribution — Vous devez créditer l'Œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l'Oeuvre. Vous devez indiquer ces informations par tous les moyens raisonnables, sans toutefois suggérer que L'Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
+
+Pas de restrictions additionnelles — Vous n'êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
+
+Pour consulter une copie de cette licence, visitez : https://creativecommons.org/licenses/by/4.0/

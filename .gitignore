@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.venv/
+venv/
+ENV/
+env/
+*_env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Fichiers de configuration IDE/éditeur
+.vscode/
+.idea/
+
+# Fichiers spécifiques à l'OS
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Fichiers temporaires
+*.swp
+*~
+*.tmp
+
+# Fichiers de log
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage.xml
+
+# Python test reports
+.pytest_cache/
+.tox/
+nosetests.xml

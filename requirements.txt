@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+requests
+spacy>=3.0.0,<4.0.0
+wordcloud
+jupyterlab # ou 'notebook' si vous préférez l'interface classique
+# fr_core_news_md # Le modèle spaCy est installé séparément via "python -m spacy download fr_core_news_md"

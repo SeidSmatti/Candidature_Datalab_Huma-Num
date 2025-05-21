@@ -1,0 +1,37 @@
+JEAN (Bibliothécaire BnF): Alors, Madame Morel, vous êtes doctorante en histoire contemporaine, c'est bien ça ? Et vous souhaiteriez utiliser les ressources du DataLab ?
+
+MME MOREL: Oui, c'est exact. Bonjour Monsieur. On m'a... on m'a parlé de vos services, notamment pour l'analyse de grands corpus de textes. Je travaille sur les débats parlementaires de l'entre-deux-guerres, et j'ai récupéré pas mal de numérisations via Gallica.
+
+JEAN: Ah, très intéressant comme sujet ! (pause courte) Oui, le DataLab peut certainement vous être utile. On a... comment dire... plusieurs objectifs. D'abord, faciliter l'accès à des corpus numériques de la BnF, y compris ceux qui sont sous droits ou qui nécessitent des outils spécifiques pour être exploités. Ensuite, mettre à disposition un environnement de travail avec des logiciels... euh... préinstallés pour le traitement de texte, l'analyse de données, la cartographie, etc.
+
+MME MOREL: D'accord. Et concrètement, si j'ai déjà mes fichiers, qui sont des PDF issus de Gallica, comment ça se passe ? Est-ce que je peux les... les "uploader" dans cet environnement ?
+
+JEAN: Tout à fait. Vous pouvez réserver un poste au DataLab – enfin, on a aussi des accès distants maintenant, ce qui est plus pratique. (sourire) Et vous pourrez y transférer vos données. (pause) La première étape, j'imagine, pour des PDF image, ce sera l'OCR, la reconnaissance de caractères ?
+
+MME MOREL: Oui, absolument. C'est un peu ma... ma hantise. J'ai essayé des outils en ligne, mais la qualité n'est pas toujours au rendez-vous, surtout avec les typographies de l'époque.
+
+JEAN: Je comprends. Ici, on a des chaînes d'OCR qui sont... disons, optimisées pour les collections de la BnF. On utilise notamment eScriptorium, qui permet un contrôle assez fin du processus de segmentation et de transcription. (pause) Ça demande un petit temps d'apprentissage, mais les résultats sont souvent bien meilleurs, surtout si vous pouvez investir un peu de temps dans la... la correction des modèles.
+
+MME MOREL: eScriptorium... d'accord, je note. (bruit de stylo sur papier) Et une fois que j'aurai mes textes en format brut, quelles sont les possibilités d'analyse ? Je m'intéresse par exemple à l'évolution de certains termes, à la cooccurrence de mots...
+
+JEAN: Alors, pour ça, on a des outils classiques comme Voyant Tools, qui est très bien pour une première exploration. (pause) On peut aussi vous orienter vers des bibliothèques Python, si vous êtes un peu à l'aise avec la programmation... des choses comme NLTK ou spaCy pour l'analyse linguistique. On a aussi des postes avec R et RStudio pour des analyses statistiques plus poussées.
+
+MME MOREL: Python, j'ai quelques notions, mais très basiques. (rire hésitant) Mais Voyant Tools, j'en ai entendu parler, ça a l'air accessible.
+
+JEAN: Très accessible, oui. Et ça permet déjà de faire beaucoup de choses. (pause) Et puis, une fois que vous avez vos données, vos résultats, il y a la question de leur gestion et de leur... de leur valorisation. C'est là qu'intervient Huma-Num, la Très Grande Infrastructure de Recherche. Vous connaissez ?
+
+MME MOREL: Huma-Num... oui, de nom. Mon directeur de thèse m'a dit que je devrais y déposer mes données à la fin de ma thèse. Surtout si je produis des... des corpus nettoyés et enrichis.
+
+JEAN: Exactement. Huma-Num propose des services comme Nakala pour le dépôt de données de recherche, en leur assignant des identifiants pérennes, des métadonnées standardisées... (pause) Ça s'inscrit dans une démarche de science ouverte, pour que vos données puissent être citées, réutilisées... (pause courte) Et c'est de plus en plus demandé par les financeurs, d'ailleurs. Avoir un plan de gestion de données, penser à la diffusion...
+
+MME MOREL: Oui, j'ai vu ça dans les... les appels à projets. C'est un peu intimidant au début, tout cet écosystème numérique. BnF, Gallica, DataLab, Huma-Num, Nakala... On s'y perd un peu.
+
+JEAN: (sourire compréhensif) C'est normal ! C'est pour ça qu'on est là. Pour vous accompagner. (pause) Ce que je vous propose, c'est peut-être de commencer par une session d'initiation au DataLab. On en organise régulièrement. Ça vous permettrait de voir concrètement les outils, l'environnement. Et ensuite, on peut discuter plus spécifiquement de votre projet et de la meilleure façon de... de l'aborder avec nos ressources.
+
+MME MOREL: Ce serait parfait ! Oui, une initiation, ce serait une très bonne première étape pour moi. Comment puis-je m'inscrire ?
+
+JEAN: Je vais vous donner le lien vers le calendrier des formations. (pause) Et n'hésitez pas si vous avez d'autres questions d'ici là. L'important, c'est de ne pas rester bloquée par la technique. Les outils sont au service de la recherche, pas l'inverse, hein ?
+
+MME MOREL: C'est rassurant de l'entendre. (rire) Merci beaucoup pour toutes ces informations, c'est déjà beaucoup plus clair.
+
+JEAN: Avec plaisir, Madame Morel. On est là pour ça. N'hésitez pas à revenir vers moi.

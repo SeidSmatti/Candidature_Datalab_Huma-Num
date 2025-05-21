@@ -1,0 +1,31 @@
+CHLOÉ: Salut Marc ! Dis-moi, t'as avancé sur ton corpus pour le projet sur la presse du XIXe ? J'ai vu que t'avais réservé une session au DataLab de la BnF.
+
+MARC: Ah, salut Chloé ! Oui, justement, j'en sors à l'instant, enfin... virtuellement, quoi. (rire) J'ai passé la matinée à essayer de... de dompter les outils d'OCR sur des vieux numéros du *Petit Journal*. Franchement, c'est... c'est pas toujours une mince affaire, hein.
+
+CHLOÉ: J'imagine ! La qualité des numérisations de Gallica est bonne, mais l'OCR sur des mises en page anciennes... (grimace) Tu utilises quoi comme outil là-bas ? Ils ont des trucs spécifiques au DataLab ?
+
+MARC: Ben, ils ont plusieurs chaînes de traitement. J'ai testé celle basée sur Tesseract, mais aussi une autre, euh... eScriptorium, je crois. C'est assez puissant, mais la prise en main... (soupir) faut s'accrocher. Surtout pour segmenter les articles correctement, tu vois, avec les colonnes, les images...
+
+CHLOÉ: Ouais, la segmentation, c'est le nerf de la guerre. Et pour le stockage de tes données textuelles après, tu passes par Nakala via Huma-Num ? C'est ce qu'on nous avait recommandé pour la pérennité et le... le partage, enfin, l'exposition des métadonnées.
+
+MARC: Exactement. L'idée, c'est de déposer les textes océrisés et les métadonnées associées sur Nakala. (pause) Mais avant ça, faut que je nettoie le texte, que je l'annote un minimum en TEI... C'est un boulot de dingue. Je me demande si je vais pas devoir... p'têt' me concentrer sur une période plus courte que prévu.
+
+CHLOÉ: Ah, le fameux "rétrécissement" du corpus face à la réalité du terrain ! (rire compatissant) Je connais ça. Pour mon projet sur les correspondances, j'ai dû faire pareil. (pause) Tu as regardé si y'avait pas des... des jeux de données déjà océrisés et disponibles, même partiellement ? Des fois, sur des plateformes comme... Persée, ou même des projets hébergés par Huma-Num, on trouve des pépites.
+
+MARC: J'ai cherché, oui. Y'a des choses, mais pas exactement sur les années ou les titres que je vise. C'est toujours le problème, quoi. Le sur-mesure, ça prend un temps fou. (pause courte) Et toi, le DataLab, tu l'as déjà utilisé pour tes propres recherches ?
+
+CHLOÉ: Un peu, oui. Surtout pour accéder à des corpus spécifiques qui ne sont pas... comment dire... librement accessibles en téléchargement massif depuis Gallica. Et puis, pour les outils d'analyse de texte qu'ils proposent. J'avais testé Voyant Tools via leur interface, et aussi des scripts Python pour de la stylométrie. C'est pratique d'avoir un environnement déjà configuré.
+
+MARC: C'est clair. Ça évite de galérer avec les installations sur son propre poste. (pause) Et Huma-Num, au-delà de Nakala, tu utilises d'autres services ? Isidore pour la biblio, j'imagine ?
+
+CHLOÉ: Isidore, bien sûr, c'est la base. (rire) Et puis, j'ai un carnet Hypothèses pour le projet, donc ça fait partie de l'écosystème. (pause) J'avoue que je devrais explorer un peu plus ce qu'ils offrent. J'ai vu qu'ils avaient des... des ateliers, des formations. Ce serait p'têt' pas mal pour approfondir la TEI, justement.
+
+MARC: Ah, bonne idée ! On pourrait regarder ça ensemble ? Si y'a une session sur la TEI avancée ou sur des outils d'annotation spécifiques, ça m'intéresse carrément. Parce que là, je fais ça un peu... un peu à la main, avec Oxygen, mais je suis sûr qu'il y a moyen d'optimiser.
+
+CHLOÉ: Carrément. On se checke ça la semaine prochaine ? (pause) Bon, et sinon, ton OCR, t'as quand même réussi à extraire des trucs exploitables aujourd'hui ?
+
+MARC: Oui, oui, quand même. Disons que sur dix pages, j'en ai sept qui sont... correctes, après quelques corrections manuelles. C'est le taux de bruit qui est compliqué à gérer. Mais bon, c'est le lot commun avec les documents anciens, hein. (soupir) Faut juste être patient. Et avoir beaucoup de café.
+
+CHLOÉ: (rire) Le café, l'allié indispensable du chercheur en humanités numériques ! Bon, courage pour la suite alors. Et tiens-moi au courant pour les formations Huma-Num.
+
+MARC: Ça marche, Chloé. Toi aussi, bon courage avec tes correspondances ! On se tient au jus.

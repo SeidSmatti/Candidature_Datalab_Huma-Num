@@ -1,0 +1,29 @@
+ALICE: (arrivée un peu en retard, bruit de chaise) Désolée du retard ! Cette session sur les Linked Open Data était... passionnante mais tellement dense. (souffle) Alors, de quoi vous parliez ?
+
+MARTIN: Salut Alice ! Pas de souci. On était justement en train de... de débriefer un peu la journée. Et Paul nous racontait son expérience avec le dépôt de son corpus sur Nakala. Apparemment, ça n'a pas été si simple que ça pour l'alignement des métadonnées avec les recommandations de son consortium.
+
+PAUL: (léger soupir) Non, c'est... c'est toujours un peu le casse-tête, les métadonnées. Surtout quand tu veux bien faire, respecter les standards, Dublin Core, tout ça... (pause) Nakala en soi, c'est un super outil, hein, pour la pérennisation, l'identifiant ARK, tout ça c'est top. Mais l'étape de préparation des données en amont... pfiou.
+
+ALICE: Ah, je compatis tellement ! J'ai dû faire ça pour un petit jeu de données issu de mon post-doc. (pause) Et vous avez utilisé des outils spécifiques pour préparer vos métadonnées, Paul ? Ou c'était... à la main dans un tableur ?
+
+PAUL: Un peu des deux, pour être honnête. J'ai utilisé OpenRefine pour nettoyer et harmoniser pas mal de choses. C'est... c'est magique ce truc pour les lots de données un peu sales. Mais après, pour la structuration fine et l'export en XML pour Nakala, j'ai dû pas mal... euh... scripter en Python.
+
+MARTIN: Toi, t'es à l'aise avec Python. Moi, OpenRefine, ça va, mais dès qu'il faut coder... (rire) Je suis plus utilisateur des plateformes "clés en main". D'ailleurs, j'ai une question pour vous qui êtes plus... plus avancés. Le DataLab de la BnF, est-ce que ça vaut vraiment le coup si on n'est pas sur Paris ? J'ai vu qu'ils avaient des accès distants, mais est-ce que c'est fluide ?
+
+ALICE: Alors, pour l'accès distant au DataLab, j'ai testé une fois. C'était... correct. (pause) Ça dépend beaucoup de ta connexion, évidemment. Et de ce que tu veux faire. Pour lancer des traitements lourds, c'est bien parce que ça tourne sur leurs serveurs. Mais pour de l'exploration interactive, parfois, ça peut avoir un peu de latence. (pause courte) Mais ils ont des corpus qui sont uniquement accessibles par là, donc des fois, t'as pas le choix.
+
+PAUL: Oui, et puis l'avantage, c'est aussi l'accompagnement. Si t'as un souci avec un format de fichier de Gallica un peu exotique, ou avec une chaîne de traitement d'images, les ingénieurs de la BnF peuvent t'aider. C'est pas négligeable. (pause) Moi, je vois Huma-Num et la BnF, surtout avec le DataLab, comme des... des piliers de l'écosystème des humanités numériques en France. Ils fournissent l'infrastructure, les données, une partie de l'expertise...
+
+MARTIN: C'est vrai. Et Huma-Num, avec son portail Isidore, c'est quand même une mine d'or pour la recherche bibliographique. Je ne sais pas comment je ferais sans. (pause) Mais parfois, je me demande si on ne multiplie pas un peu trop les... les portails, les plateformes. On a Huma-Num, on a des initiatives européennes comme DARIAH, CLARIN... Comment tout ça s'articule ?
+
+ALICE: C'est une bonne question. (réfléchit) En théorie, tout ça est censé être... interopérable. Grâce à des standards communs, comme le TEI pour le texte, ou les principes FAIR pour les données – Faciles à trouver, Accessibles, Interopérables, Réutilisables. (pause) Huma-Num est d'ailleurs le nœud français de DARIAH et participe à CLARIN. Donc, il y a une volonté de... de cohérence. Mais dans la pratique, c'est clair que pour le chercheur lambda, ça peut paraître un peu... un peu nébuleux.
+
+PAUL: Surtout quand tu débutes. (acquiesce) Il manque peut-être des... des guichets uniques, ou des parcours utilisateurs plus clairs pour t'orienter vers le bon outil ou la bonne ressource en fonction de ton besoin. (pause) On parlait de Nakala, mais y'a aussi NAKALONA pour les ontologies, des outils de visualisation... L'offre est riche, mais faut la connaître.
+
+MARTIN: Et puis, il y a la question de la formation continue. Les technologies évoluent tellement vite. (pause) Ce qu'on apprend aujourd'hui sera peut-être obsolète dans cinq ans. Il faut constamment se mettre à jour. Les MOOCs, les écoles d'été comme celle de l'ENC sur la TEI, c'est bien, mais ça demande du temps.
+
+ALICE: C'est sûr. Mais c'est aussi ce qui est stimulant, non ? (sourire) Le fait que ce soit un domaine en... en constante évolution. Et voir comment ces outils numériques nous permettent de poser de nouvelles questions à nos corpus anciens... moi, je trouve ça passionnant. (pause) Par exemple, avec les collections de la BnF accessibles via IIIF, on peut maintenant faire des choses incroyables en termes d'annotation collaborative d'images, de comparaison de manuscrits...
+
+PAUL: Ah oui, IIIF, c'est une révolution silencieuse ça aussi. (pause) Bon, on va prendre un autre café ? Parce que là, on refait le monde des humanités numériques, mais ma thèse, elle, elle s'écrit pas toute seule ! (rires partagés)
+
+MARTIN: Bonne idée, le café ! Et après, promis, on arrête de parler boulot... ou presque !

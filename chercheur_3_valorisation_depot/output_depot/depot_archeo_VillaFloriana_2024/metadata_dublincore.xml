@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <dc:title>Jeu de données archéologiques du site de la Villa Floriana (Bourgogne) - Campagne 2024</dc:title>
+  <dc:creator>Bernard, Sophie (Dr.)</dc:creator>
+  <dc:publisher>Université de Bourgogne (fictif) / Laboratoire ARTeHIS UMR 6298 (fictif)</dc:publisher>
+  <dc:type>Dataset</dc:type>
+  <dc:language>fra</dc:language>
+  <dcterms:abstract>Ce jeu de données comprend l'inventaire des artefacts (CSV), une sélection de photographies (JPG), et le rapport de synthèse (MD) issus des fouilles préventives menées en 2024 sur le site gallo-romain de la Villa Floriana en Bourgogne. Le site a livré des vestiges d'occupation s'étalant principalement du Ier au IVe siècle ap. J.-C.</dcterms:abstract>
+  <dc:contributor>Équipe Archéologique Inrap Grand Est (fictif)</dc:contributor>
+  <dc:identifier>(sera assigné par NAKALA lors du dépôt, ex: DOI)</dc:identifier>
+  <dcterms:accessRights>Creative Commons Attribution 4.0 International (CC BY 4.0)</dcterms:accessRights>
+  <dc:subject>Archéologie</dc:subject>
+  <dc:subject>Gallo-Romain</dc:subject>
+  <dc:subject>Bourgogne</dc:subject>
+  <dc:subject>Villa Floriana</dc:subject>
+  <dc:subject>Artefacts</dc:subject>
+  <dc:subject>Céramique</dc:subject>
+  <dc:subject>Numismatique</dc:subject>
+  <dc:format>text/csv</dc:format>
+  <dc:format>image/jpeg</dc:format>
+  <dc:format>text/markdown</dc:format>
+  <dc:date>2025-05-21</dc:date>
+  <dcterms:spatial>Villa Floriana, Bourgogne, France (coordonnées fictives : 47.3220 N, 5.0415 E)</dcterms:spatial>
+  <dcterms:temporal>Ier siècle ap. J.-C. - IVe siècle ap. J.-C.</dcterms:temporal>
+  <dcterms:license rdf:resource="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</dcterms:license>
+</metadata>
