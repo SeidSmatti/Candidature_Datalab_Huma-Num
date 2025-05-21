@@ -9,14 +9,14 @@ Il simule l'accompagnement de trois chercheurs fictifs, chacun se trouvant à un
 Le projet s'articule autour de trois scénarios distincts qui se placent à différentes temporalités de la vie d'un projet :
 
 1.  **Scénario 1 : L'Historienne en début de recherche – "Identifier des sources pour une étude sur la représentation des épidémies dans la presse française du XIXe siècle via Gallica"**
-    * **Chercheur(se) :** Dr. Élise Moreau (fictive), historienne.
-    * **Problématique :** En début de recherche, Dr. Moreau a besoin d'aide pour constituer un corpus initial à partir des collections numérisées de la BnF (Gallica) sur le thème des épidémies.
+    * **Chercheur(se) :** Jeanne Dupont (fictive), historienne.
+    * **Problématique :** En début de recherche, la chercheuse a besoin d'aide pour constituer un corpus initial à partir des collections numérisées de la BnF (Gallica) sur le thème des épidémies.
     * **Objectif de l'accompagnement simulé :** Aider à l'identification des sources pertinentes via l'API SRU de Gallica, à l'extraction des métadonnées (XML), à la structuration de ces données (Pandas), et à une première analyse exploratoire (volume, répartition temporelle).
     * ** Lien vers le scénario :** [`./chercheur_1_exploration/`](./chercheur_1_exploration/)
 
 2.  **Scénario 2 : Le sociolinguiste en pleine analyse – "Traiter et analyser un corpus de témoignages oraux transcrits pour étudier les variations linguistiques"**
-    * **Chercheur(se) :** Dr. Marc Duval (fictif), sociolinguiste.
-    * **Problématique :** Dr. Duval dispose de transcriptions textuelles d'entretiens oraux et souhaite les nettoyer, les structurer, et appliquer des techniques de Traitement Automatique de la Langue (TAL) pour en extraire des informations pertinentes.
+    * **Chercheur(se) :** Jean Dupont (fictif), sociolinguiste.
+    * **Problématique :** Le chercheur dispose de transcriptions textuelles d'entretiens oraux et souhaite les nettoyer, les structurer, et appliquer des techniques de Traitement Automatique de la Langue (TAL) pour en extraire des informations pertinentes.
     * **Objectif de l'accompagnement simulé :** Proposer un pipeline de traitement incluant la lecture des fichiers, la segmentation par locuteur, le nettoyage des annotations d'oralité, l'enrichissement TAL avec `spaCy` (lemmatisation, étiquetage morpho-syntaxique, reconnaissance d'entités nommées), et des analyses quantitatives initiales (fréquences lexicales, TTR, nuages de mots, distribution des catégories grammaticales).
     * ** Lien vers le scénario :** [`./chercheur_2_traitement_analyse/`](./chercheur_2_traitement_analyse/)
 
