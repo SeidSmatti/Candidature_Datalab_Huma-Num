@@ -106,7 +106,7 @@ Ce projet est distribué sous la licence publique générale GNU version 3 (GPLv
 
 ---
 
-## English Summary (Optional)
+## English Summary 
 
 *This GitHub repository serves as a practical demonstration of skills and understanding for the "Scientific Data Processing Support Officer" role at BnF DataLab and IR* Huma-Num CNRS (Reference: UAR3598-ARIALL-040).*
 
